@@ -1,0 +1,104 @@
+input[type="number"] {
+  max-width: 80%;
+}
+
+.navbar-custom {
+  height: 100px;
+}
+.navbar-default {
+  background-color: #00A064!important;
+}
+
+.navbar-default:hover {
+  background-color: #00A064 !important;
+    color: yellow;
+}
+
+.navbar {
+    position: relative;
+    min-height: 60px;
+    margin-bottom: 21px;
+    border: 1px solid transparent;
+}
+
+.navbar {
+    border: none;
+    font-size: 20px;
+    font-weight: 300;
+}
+
+div.outer {
+  position: fixed;
+  top: 56px;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  overflow: hidden;
+  padding: 0;
+}
+
+ .logo-image{
+    width: 46px;
+    height: 46px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin-top: -6px;
+}
+
+/* Customize fonts */
+body, label, input, button, select { 
+  font-family: 'Helvetica Neue', Helvetica;
+  
+
+}
+
+label{
+
+font-size: 24px;
+font-color: red;
+}
+.mylabel{
+color:#111211;
+font-weight:bold;
+font-size:100px;
+}
+
+.mybg{
+background:#f5f3f0;
+
+}
+
+h1, h2, h3, h4 { font-weight: 400; }
+
+#controls {
+  /* Appearance */
+  background-color: white;
+  padding: 0 10px 10px 10px;
+  cursor: move;
+  /* Fade out while not hovering */
+  opacity: 0.55;
+  zoom: 0.9;
+  transition: opacity 500ms 1s;
+}
+
+#controls:hover {
+  /* Fade in while hovering */
+  opacity: 0.75;
+  transition-delay: 0;
+}
+
+#logo {
+  /* Appearance */
+  background-color: transparent;
+  cursor: move;
+  /* Fade out while not hovering */
+  opacity: 0.25;
+  zoom: 0.9;
+  transition: opacity 500ms 1s;
+}
+
+#logo:hover {
+  /* Fade in while hovering */
+  opacity: 0.95;
+  transition-delay: 0;
+}
