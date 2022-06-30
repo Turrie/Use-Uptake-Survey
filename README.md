@@ -1,5 +1,5 @@
 # Use-Uptake-Survey
-Use & Uptake survey
+
 The Use & Uptake dashboard serves to give a summarized, interactive presentation of the output from a survey developed and piloted as part of ACAI’s monitoring, evaluation and learning (MEL) system. The use and uptake survey is used to monitor the extent to which targeted end-users adopt and apply the AKILIMO tools as well as identify the initial factors influencing the adoption.  
 This interactive dashboard provide access to timely feedback to allow adjustment of the dissemination and scaling strategy in order to reach maximum impact. 
  The steps to follow:
